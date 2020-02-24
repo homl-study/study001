@@ -37,3 +37,14 @@ Hands on machine learning 파헤치기
     - [Decorator](http://ethen8181.github.io/machine-learning/python/decorators/decorators.html)
     - [classmethod, staticmethod and property](http://ethen8181.github.io/machine-learning/python/class.html)
     - [Logging module](http://ethen8181.github.io/machine-learning/python/logging.html)
+
+
+
+## **Implementation**
+
+- 서브 프로젝트 1~2개 함께 진행해보기
+- (optional) Hands-On Machine Learning 챕터별 나만의 작은 예제 만들기
+
+## **ETC**
+
+- 공부한 내용과 코드 Github에 정리
