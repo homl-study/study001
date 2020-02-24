@@ -3,7 +3,7 @@ Hands on machine learning 파헤치기
 
 ### **Contents**
 
-- 교재1 : [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 2nd Edition](https://www.amazon.com/dp/1492032646/ref=cm_sw_em_r_mt_dp_U_w-FuEbYRAPXTN)
+- 교재 : [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 2nd Edition](https://www.amazon.com/dp/1492032646/ref=cm_sw_em_r_mt_dp_U_w-FuEbYRAPXTN)
 
   - Coverage
     - Chapter 11 ~ 19.
