@@ -8,7 +8,7 @@ Hands on machine learning 파헤치기
 - 교재 : [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - 2nd Edition](https://www.amazon.com/dp/1492032646/ref=cm_sw_em_r_mt_dp_U_w-FuEbYRAPXTN)
 
   - Coverage
-    - Chapter 11 ~ 19.
+    - Chapter 11 ~ 19
     - (Optional) Chapter 18. Reinforcement Learning
   - Objective
     - Chapter exercise 문제 풀기
