@@ -1,4 +1,4 @@
-# study001
+# Study001
 Hands on machine learning 파헤치기
 
 ## **Deep learning**
